@@ -7,7 +7,7 @@ $results = $controller->searchMaterials($query);
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Cari Materi</title>
+  <title>Search Matery</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="p-4">
